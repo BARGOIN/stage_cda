@@ -1,0 +1,14 @@
+{
+    "name": "philippe2/http",
+    "autoload": {
+        "psr-4": {
+            "Libs\\": "Libs/",
+            "App\\": "App/"
+
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.3",
+        "rdehnhardt/var-dumper": "^1.3"
+    }
+}
